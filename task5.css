@@ -1,0 +1,11 @@
+h1 { font-family:Verdana, Geneva, sans-serif; color:blue }
+a {
+    text-decoration: none;
+    margin-left: -2.5%;
+    color: blue;
+}
+a{ text-decoration:none }
+a:hover { color:yellow }
+ul {
+    list-style-type: none;
+   } 

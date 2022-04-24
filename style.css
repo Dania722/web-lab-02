@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+a{
+    color: white;
+    text-decoration: none;
+
+text-decoration: underline;   
+ font-size: 30px;
+}
+h1{
+    text-align: center;
+    color: whitesmoke;
+    text-decoration: underline;
+    font-size: 62px;
+    font-weight: bolder;
+}
